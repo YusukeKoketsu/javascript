@@ -26,3 +26,25 @@
 // let str2 = 'World!!';
 // let int1 = 3.14;
 // alert(str1+str2);
+
+// 条件分岐
+// let orange = 100;
+// let apple = 120;
+// if (orange < apple){
+//   alert('みかんの値段はりんごより安いです')
+// } else if (orange == apple){
+//   alert('みかんとりんごの値段は同じです')
+// } else {
+//   alert('みかんの値段はりんごよりも高いです')
+// }
+
+// 繰り返し処理　while文
+// let max = 100;
+// let num = 1;
+// let count = 0;
+// while (num < max){
+//   num = num * 2;
+//   count = count + 1;
+// }
+// alert('2を掛け続けて'+ max + 'を超えるのに必要だった回数は' + count + '回です');
+
